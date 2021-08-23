@@ -11,4 +11,4 @@ An example would be to find all login pages on a series of sites, the use of loc
 all site javascript resources, or specific patterns which may identify the web framework(s)
 in use. 
 
-Design & Development by Mark Deen (md@markdeen.io)
+Mark Deen (md@markdeen.io)
