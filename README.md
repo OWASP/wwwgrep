@@ -1,7 +1,7 @@
 # wwwgrep
 # OWASP Foundation Web Respository
 
-### Author: Mark Deen
+### Author: Mark Deen & Aditi Mohan
 
 ### Introduction
 WWWGrep is a rapid search “grepping” mechanism that examines HTML elements by type and permits focused (single), multiple (file based URLs) and recursive (with respect to root domain or not) searches to be performed. Header names and values may also be recursively searched in this manner. WWWGrep was designed to help both breakers and builders to quickly examine code bases under inspection, some use cases and examples are shown below.
