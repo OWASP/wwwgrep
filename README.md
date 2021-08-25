@@ -1,4 +1,4 @@
-# wwwgrep
+# WWWGrep
 # OWASP Foundation Web Respository
 
 ### Author: Mark Deen & Aditi Mohan
