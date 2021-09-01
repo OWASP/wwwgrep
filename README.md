@@ -9,7 +9,7 @@ WWWGrep is a rapid search “grepping” mechanism that examines HTML elements b
 Installation
 
 	git clone 
-	pip3 install r requirements.txt
+	pip3 install -r requirements.txt
 	python3 wwwgrep.py <arguments and parameters>
 
 Dependencies (pip3 install -r requirements.txt) 
